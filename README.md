@@ -1,6 +1,6 @@
 # Data Portfolio
 
-[LinkedIn](https://www.linkedin.com/in/jacklstevens/)
+View my [Resume](/assests/Resume.docx) and [LinkedIn](https://www.linkedin.com/in/jacklstevens/)
 
 #### Technical Skills: SQL, Python, R, Tableau, Excel
 
