@@ -29,6 +29,6 @@ For a project on analyzing Charles Schwab’s social media presence, I utilized 
 I developed a comprehensive solution to streamline operations for my previous employer, Drake, a restaurant in my hometown. Using C# within Visual Studio, I designed the user interface and utilized SQL Server to create a robust database. The application was capable of updating customer information down to the database level, locating ingredients by dish, and retrieving data by table and orders by customer. Additionally, I created a separate Visual Studio application that leveraged an OpenAI key, enabling users to query the database using natural language instead of SQL. This innovative approach significantly enhanced the usability and efficiency of the database management system.
 
 
-<img src="/assets/DrakeGPT.png" alt="DrakeGPT" width="400"/> <img src="/assets/AppMain.png" alt="AppMainPage" width="400"/>
+<img src="/assets/DrakeGPT.png" alt="DrakeGPT" width="500"/> <img src="/assets/AppMain.png" alt="AppMainPage" width="500"/>
 
 
