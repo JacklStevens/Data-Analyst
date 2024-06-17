@@ -1,9 +1,9 @@
 # Data Portfolio
 
+#### Technical Skills: SQL, Python, R, Tableau, Excel
+
 ### Education
-University of Denver
-<br/> 
-<br/> Bachelors of Science - Business Information and Analytics
+- B.S., Business Information and Analytics | University of Denver (_June 2024_)
 
 ### Work Experience
 Information Systems Intern at Precise Flight
