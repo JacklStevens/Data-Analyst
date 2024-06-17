@@ -6,7 +6,7 @@
 - B.S., Business Information and Analytics | University of Denver (_June 2024_)
 
 ### Work Experience
-Information Systems Intern at Precise Flight
+**Information Systems Intern at Precise Flight (_June 2023 - September 2023_)**
 - Vault Project
 - Supply Chain Analysis
 - Tube Overlaying
