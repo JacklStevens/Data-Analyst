@@ -1,16 +1,17 @@
-## Hi there 👋
+# Data Portfolio: Jack Stevens
 
-<!--
-**JacklStevens/JacklStevens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education
+Bachelors of Science - Business Information and Analytics
+University of Denver
 
-Here are some ideas to get you started:
+### Work Experience
+Information Systems Intern at Precise Flight
+- Vault Project
+- Supply Chain Analysis
+- Tube Overlaying
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects 
+Charles Schwab Social Media Analysis Capstone Project
+- Analyzed comments on Charles Schwab's scoial media platforms, specifically Reddit.
+- Ran Sentiment Analysis, Topic Modeling and created dashboards/visualizations to support findings.
+- Gave reccomendations to social media managment based on our analysis.
