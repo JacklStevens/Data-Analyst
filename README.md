@@ -20,7 +20,7 @@ B.S., Business Information and Analytics | University of Denver (_June 2024_)
 ### Projects 
 **Charles Schwab Social Media Analysis Capstone Project**
 
-Presentation[/assets/CharlesSchwab.pdf]
+[Presentation](/assets/CharlesSchwab.pdf)
 
 For a project on analyzing Charles Schwab’s social media presence, I utilized a combination of tools and techniques to derive meaningful insights. Initially, I used R to scrape data from various social media platforms, focusing specifically on Reddit. With Alteryx, I performed topic modeling and sentiment analysis to understand the underlying themes and sentiments within the comments. To effectively communicate these findings, I created detailed dashboards and visualizations using Power BI and Tableau. These visualizations highlighted key trends and insights, which informed my recommendations to the social media management team.
 
