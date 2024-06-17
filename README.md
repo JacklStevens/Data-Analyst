@@ -1,4 +1,4 @@
-# Data Portfolio: Jack Stevens
+# Data Portfolio
 
 ### Education
 University of Denver
