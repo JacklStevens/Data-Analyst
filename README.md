@@ -2,6 +2,7 @@
 
 ### Education
 University of Denver
+<br/> 
 <br/> Bachelors of Science - Business Information and Analytics
 
 ### Work Experience
