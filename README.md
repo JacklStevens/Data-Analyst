@@ -24,5 +24,6 @@ B.S., Business Information and Analytics | University of Denver (_June 2024_)
 
 For a project on analyzing Charles Schwab’s social media presence, I utilized a combination of tools and techniques to derive meaningful insights. Initially, I used R to scrape data from various social media platforms, focusing specifically on Reddit. With Alteryx, I performed topic modeling and sentiment analysis to understand the underlying themes and sentiments within the comments. To effectively communicate these findings, I created detailed dashboards and visualizations using Power BI and Tableau. These visualizations highlighted key trends and insights, which informed my recommendations to the social media management team.
 
-**Resturant Database, Application and AI**
-- Created a sample database in an attempt to organize my previous employer Drake.
+**Restaurant Database, Application and AI**
+
+I developed a comprehensive solution to streamline operations for my previous employer, Drake. Using C#, I designed the user interface and utilized SQL Server to create a robust database. The application was capable of updating customer information, locating ingredients by dish, and retrieving data by table and orders by customer. Additionally, I created a separate application that leveraged an OpenAI key, enabling users to query the database using natural language instead of SQL. This innovative approach significantly enhanced the usability and efficiency of the database management system.
