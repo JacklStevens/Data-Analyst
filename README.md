@@ -2,7 +2,7 @@
 
 ### Education
 University of Denver
-<br/>Bachelors of Science - Business Information and Analytics
+<br/> Bachelors of Science - Business Information and Analytics
 
 ### Work Experience
 Information Systems Intern at Precise Flight
