@@ -2,7 +2,7 @@
 
 View my [Resume](/assets/Resume.docx) and [LinkedIn](https://www.linkedin.com/in/jacklstevens/)
 
-#### Technical Skills: SQL, Python, R, Tableau, Excel
+#### Technical Skills: SQL, Python, R, Tableau, Excel, Access, MSSQL
 
 ### Education
 B.S. Business Information and Analytics | University of Denver (_June 2024_)
@@ -30,5 +30,18 @@ During my Junior year at The University of Denver I developed a comprehensive so
 
 
 ![DrakeGPT](/assets/1drakegpt.png)
+
+
+### Leadership and Community Involvement
+
+**Pi Kappa Phi | Historian (_September 2022 - December 2023_)**
+
+-	Managed alumni communication implementing engagement strategies for maximum involvement.
+-	Utilized Photoshop to design two pieces of merchandise a quarter, along with event advertising materials.
+
+**Cadet Teacher and Tutor | Algabra II and AP Stats (_September 2019 - June 2020_)**
+
+- Provided in-class support and assistance to students struggling with Algebra II concepts as a cadet teacher, enhancing their understanding and performance during lessons.
+- Tutored peers in AP Statistics, offering one-on-one guidance and helping them improve their grasp of the subject matter.
 
 
