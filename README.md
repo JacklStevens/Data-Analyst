@@ -1,4 +1,4 @@
-# Data Portfolio
+# Data Analyst
 
 View my [Resume](/assets/Resume.docx) and [LinkedIn](https://www.linkedin.com/in/jacklstevens/)
 
