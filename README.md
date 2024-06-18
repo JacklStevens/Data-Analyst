@@ -5,7 +5,7 @@ View my [Resume](/assets/Resume.docx) and [LinkedIn](https://www.linkedin.com/in
 #### Technical Skills: SQL, Python, R, Tableau, Excel
 
 ### Education
-B.S., Business Information and Analytics | University of Denver (_June 2024_)
+B.S. Business Information and Analytics | University of Denver (_June 2024_)
 
 ### Work Experience
 **Information Systems Intern @ Precise Flight (_June 2023 - September 2023_)**
@@ -26,7 +26,7 @@ For a project on analyzing Charles Schwab’s social media presence, I utilized 
 
 **Restaurant Database, Application and AI**
 
-I developed a comprehensive solution to streamline operations for my previous employer, Drake, a restaurant in my hometown. Using C# within Visual Studio, I designed the user interface and utilized SQL Server to create a robust database. The application was capable of updating customer information down to the database level, locating ingredients by dish, and retrieving data by table and orders by customer. Additionally, I created a separate Visual Studio application that leveraged an OpenAI key, enabling users to query the database using natural language instead of SQL. This innovative approach significantly enhanced the usability and efficiency of the database management system.
+During my Junior year at The University of Denver I developed a comprehensive solution to streamline operations for my previous employer, Drake, a restaurant in my hometown. Using C# within Visual Studio, I designed the user interface and utilized SQL Server to create a robust database. The application was capable of updating customer information down to the database level, locating ingredients by dish, and retrieving data by table and orders by customer. Additionally, I created a separate Visual Studio application that leveraged an OpenAI key, also connected to the SQL database, enabling users to query the database using natural language instead of SQL. This innovative approach significantly enhanced the usability and efficiency of the database management system.
 
 
 <img src="/assets/DrakeGPT.png" alt="DrakeGPT" width="510"/> <img src="/assets/AppMain.png" alt="AppMainPage" width="490"/>
